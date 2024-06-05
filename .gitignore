@@ -1,0 +1,9 @@
+.venv
+.env
+Authentication.db
+Story_STP.db
+embedded_userstories.npy
+data
+__pycache__
+doc_pictures
+test2.py
